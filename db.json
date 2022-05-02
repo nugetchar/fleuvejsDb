@@ -1,13 +1,13 @@
 
 {
     "users": [
-        { "username": "nugetchar" },
-        { "username": "jdo08" },
-        { "username": "dsburry" },
-        { "username": "soulCoding_" },
-        { "username": "Chart_of" },
-        { "username": "un77" },
-        { "username": "rbmoura" },
-        { "username": "little_pea" }
+        { "id": 1, "username": "nugetchar" },
+        { "id": 2, "username": "jdo08" },
+        { "id": 3, "username": "dsburry" },
+        { "id": 4, "username": "soulCoding_" },
+        { "id": 5, "username": "Chart_of" },
+        { "id": 6, "username": "un77" },
+        { "id": 7, "username": "rbmoura" },
+        { "id": 8, "username": "little_pea" }
     ]
 }
